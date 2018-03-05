@@ -1,0 +1,24 @@
+[
+  {
+    "business_name": "Apple",
+    "business_type" : "for profit",
+    "market_type": "B2C",
+	"job_to_be_done" : "a great electronic gadgets along with having a friendly-customer environment",
+	"revenue_model" : "value proposition"
+  },
+  {
+    "business_name": "Netfilx",
+    "business_type" : "for profit",
+    "market_type": "B2C",
+    "job_to_be_done" : "to watch a video-on demand or streaming media online",
+	"revenue_model" : "customer segments"
+  },
+  {
+	"business_name" : "Amazon",
+	"business_type" : "for profit",
+	"market_type" : "B2C",
+	"job_to_be_done" : "an online or social network customers who needs the convinience of buying or searching for their desired product online",
+	"revenue_model" : "customer relationships"
+    
+  }
+]
